@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "chatdtimer",
+    "name": "Unfocused Chat Delay",
+    "description": "yes.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/AquUpd",
+    "updateUrl": "",
+    "authorList": [
+      "Aqua_tic(AqUpd)"
+    ],
+    "dependencies": []
+  }
+]
