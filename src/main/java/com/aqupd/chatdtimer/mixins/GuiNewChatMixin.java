@@ -15,7 +15,6 @@ public class GuiNewChatMixin extends Gui {
     index = 2
   )
   private int mixin(int updateCounter){
-    System.out.println(updateCounter);
     return updateCounter - 200 + time * 20;
   }
 }
